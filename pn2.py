@@ -3,6 +3,10 @@
 #( <= )less than equal to , ( >= )more than equal to
 #we can perform comparision of int,float an
 #answer will be in boolean [true/false]
+# equality operation
+# eqaulity op. can be also applied between strings and integers
+# but same can not be applied comparision/relational operators
+
 
 #we can perform comparision of string and we will get answer in boolean.
 
@@ -26,3 +30,4 @@ print(ord(c1)) #only single char is allowed
 print(ord(c2))
 
 print(chr(s))
+
