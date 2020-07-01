@@ -21,6 +21,7 @@ op=23
 #Basic types are
 -str = strings
 -int = integers
+-complex = number [xi+y]-> i is number
 -float = decimals
 -bool = true/false
 
@@ -38,5 +39,6 @@ op=23
 #practice
 print('12a') => 12a str
 print('10') => 10 str
+print(2x+y) => complex
 print(11.90) => float
 print(False) => bool
