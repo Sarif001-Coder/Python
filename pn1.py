@@ -27,6 +27,14 @@ op=23
 #with this speacialcharacter starting given to any line is considered to be Comment
 #there is no concept of multiline comment here.
 
+
+#collection datatype
+#list        #byte
+#tuple       #bytearray
+#set         #range
+#dict        #none
+#frozenset
+
 #practice
 print('12a') => 12a str
 print('10') => 10 str
