@@ -13,6 +13,7 @@ step3:
 check python installed or not 
 -open cmd/powershell
 -type python 
+#on next line.
 -see >>> appears with verion of python you installed
 
 YOU ARE READY TO GO.
