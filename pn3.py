@@ -39,3 +39,9 @@ print(9 // 2.2)
 # floor & ceil operation[Example]
 # ceil 10.24 => 11 , 11.76 => 12
 # floor 3.45 => 3 , 5.78 => 5
+
+# Complex no. operation
+z1 = 2 + 3j
+z2 = 3 - 5j
+print(z1 / z2)
+# we cant do Modules and IntegerDivision on this.
